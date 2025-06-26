@@ -2,6 +2,10 @@
 
 # Course Management System (Java Console App)
 
+![Java](https://img.shields.io/badge/language-Java-blue)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+
+
 A simple console-based Course Management System in Java using full **Object-Oriented Programming** concepts.
 
 ## 👨‍🏫 Features
